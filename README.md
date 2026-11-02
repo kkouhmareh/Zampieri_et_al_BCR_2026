@@ -225,4 +225,3 @@ Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn)
 | Jitter size | 0.4 |
 | Matched normal data | Match TCGA normal and GTEx data |
 | Statistical test | One-way ANOVA |
-| Sample size | Tumour n = [ ], Normal n = [ ] |
