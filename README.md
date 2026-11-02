@@ -62,7 +62,7 @@ To run the notebook, place the `.h5ad` files in a `data/` folder in the same dir
 The processed AnnData (.h5ad) have been deposited on Zenodo, 
 one repository per dataset. 
 
-- GSE161529: https://zenodo.org/records/23518046 (scRNA-seq)
+- GSE161529: https://zenodo.org/records/23894866 (scRNA-seq)
 - GSE246613: https://zenodo.org/records/23517977 (scRNA-seq)
 - GSE176078: https://zenodo.org/records/23518300 (scRNA-seq)
 - GSE210616: https://zenodo.org/records/23517586 (Spatial Transcriptomics)
