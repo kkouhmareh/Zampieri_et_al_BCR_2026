@@ -142,6 +142,7 @@ Only Base (Untreated) samples in 'treatment' were used.
 
 - Source Publication PMID: 34493872
 - Cohort Metadata: Supplementary Table 1
+- Each .tar file for each sample contains the count_matrix_barcodes.tsv, count_matrix_genes.tsv, and the count_matrix_sparse.mtx
 
 | GSM ID | Subtype | Patient |
 |---|---|---|
