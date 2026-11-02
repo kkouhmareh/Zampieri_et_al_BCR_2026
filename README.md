@@ -202,15 +202,15 @@ Any quality control or filtering cutoff step has been highlighted and includes a
 commented explanation for value ranges in the Jupyter notebook. Feel free to 
 use whatever cutoffs you wish. 
 
-## Bulk Transcriptomic Data (cBioPortal)
+## Bulk Transcriptomic Data
 
 Excel files containing patient metadata, along with the data used to generate plots
 in Figures 1 and 2 are available in the GitHub repository within the folder
 "Bulk_Transcriptomics_Data". 
 
-- BC_Cell2015 DATA.xlsx (Date Accessed: 12/13/2025)
-- BC_PanCancerAtlas.xlsx (Date Accessed: 12/13/2025)
-- METABRIC_data.xlsx (Date Accessed: 12/13/2025)
+- BC_Cell2015 DATA.xlsx (Date Accessed: 12/13/2025) https://www.cbioportal.org/study/summary?id=brca_tcga_pub2015
+- BC_PanCancerAtlas.xlsx (Date Accessed: 12/13/2025) https://www.cbioportal.org/study/summary?id=brca_tcga_pan_can_atlas_2018
+- METABRIC_data.xlsx (Date Accessed: 12/13/2025) https://www.cbioportal.org/study/summary?id=brca_metabric
 
 Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn) 
 (Tang et al., *Nucleic Acids Res* 2019; 47(W1):W556–W560)
