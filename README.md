@@ -198,9 +198,7 @@ Both treated samples and untreated samples where PLAU was not an HVG were exclud
 
 ## QC and Filtering Parameters
 
-Any quality control or filtering cutoff step has been highlighted and includes a
-commented explanation for value ranges in the Jupyter notebook. Feel free to 
-use whatever cutoffs you wish. 
+Any quality control or filtering cutoff step has been highlighted if you wish to modify for your analysis. 
 
 ## Bulk Transcriptomic Data
 
