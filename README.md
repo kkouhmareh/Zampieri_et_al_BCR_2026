@@ -208,6 +208,10 @@ Excel files containing patient metadata, along with the data used to generate pl
 in Figures 1 and 2 are available in the GitHub repository within the folder
 "Bulk_Transcriptomics_Data". 
 
+- BC_Cell2015 DATA.xlsx (Date Accessed: 12/13/2025)
+- BC_PanCancerAtlas.xlsx (Date Accessed: 12/13/2025)
+- METABRIC_data.xlsx (Date Accessed: 12/13/2025)
+
 Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn) 
 (Tang et al., *Nucleic Acids Res* 2019; 47(W1):W556–W560)
 
