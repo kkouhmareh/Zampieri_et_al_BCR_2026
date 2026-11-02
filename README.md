@@ -7,7 +7,7 @@
 
 
 This repository contains the code and input files needed to 
-reproduce the analyses and figures in the paper.
+reproduce the single-cell RNA sequencing figures in the paper.
 
 ## Dependencies
  
