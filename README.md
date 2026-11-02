@@ -206,7 +206,7 @@ use whatever cutoffs you wish.
 
 Excel files containing patient metadata, along with the data used to generate plots
 in Figures 1 and 2 are available in the GitHub repository within the folder
-"Bulk Transcriptomic Studies". 
+"Bulk_Transcriptomics_Data". 
 
 Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn) 
 (Tang et al., *Nucleic Acids Res* 2019; 47(W1):W556–W560)
