@@ -1,6 +1,4 @@
-# Single-cell and spatial transcriptomic profiling reveals human breast cancer 
-subtype-specific expression of the urokinase receptor/PLAUR and its association 
-with cancer aggressiveness
+# Single-cell and spatial transcriptomic profiling reveals human breast cancer subtype-specific expression of the urokinase receptor/PLAUR and its association with cancer aggressiveness
 
 
 ## Zampieri et al, 2026 Breast Cancer Research
