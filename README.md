@@ -211,7 +211,7 @@ in Figures 1 and 2 are available in the GitHub repository within the folder
 - BC_PanCancerAtlas.xlsx (Date Accessed: 12/13/2025) https://www.cbioportal.org/study/summary?id=brca_tcga_pan_can_atlas_2018
 - METABRIC_data.xlsx (Date Accessed: 12/13/2025) https://www.cbioportal.org/study/summary?id=brca_metabric
 
-Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn) (Date Accessed: 12/13/2025(
+Parameters used from GEPIA2: (http://gepia2.cancer-pku.cn) (Date Accessed: 12/13/2025)
 (Tang et al., *Nucleic Acids Res* 2019; 47(W1):W556–W560)
 
 | Parameter | Value |
